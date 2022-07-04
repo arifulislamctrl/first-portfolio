@@ -39,6 +39,9 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.developer{
+    font-size: 50px;
+}
 .orange-color{
     color: orange;
 }
